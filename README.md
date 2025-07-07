@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, HTML, CSS**
 
-- 📫 How to reach me **sahaneduonline@gmail.com**
-
 - ⚡ Fun fact **I am Funny😊**
 
 <h3 align="left">Connect with me:</h3>
