@@ -75,6 +75,16 @@ const sahan: Developer = {
 
 ---
 
+<table align="center" border="none" width="50%">
+  <tr>
+    <td align="center">
+      <img src="https://SahanB200.github.io/SahanB200/snake.svg" alt="Snake animation" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🏆 GitHub Achievements
 
 <div align="center">
