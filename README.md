@@ -5,8 +5,8 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahanb200&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/sahanb200?logo=github&style=for-the-badge&color=0969da&labelColor=302d41" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=SahanB200&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/SahanB200?logo=github&style=for-the-badge&color=0969da&labelColor=302d41" alt="Followers" />
 </div>
 
 ---
@@ -60,17 +60,17 @@ const sahan: Developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahanb200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahanb200&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SahanB200&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SahanB200&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanb200&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SahanB200&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahanb200&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SahanB200&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ const sahan: Developer = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahanb200&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SahanB200&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
