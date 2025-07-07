@@ -1,7 +1,7 @@
 # 🚀 Welcome to My Digital Universe!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahan+Baddegama;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF6B6B&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Sahan+Baddegama;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Innovation+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -103,14 +103,6 @@ const sahan: Developer = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
-</div>
-
----
-
-## 🎵 Currently Vibing To
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff&limit=5" alt="Spotify" />
 </div>
 
 ---
