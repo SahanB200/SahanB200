@@ -136,7 +136,7 @@ graph LR
 | Project | Stack | Deployment | Link |
 |---------|-------|------------|------|
 | **MediGo** — Smart Ambulance System | Flutter, React, TypeScript, Firebase | Vercel + CI/CD | [🔗 Live](https://medi-go-three.vercel.app/) |
-| **WinGro** — E-Commerce Store | React, Vite, Docker, GitHub Actions | Netlify + Docker + CI/CD | [🔗 Live](https://wingro.netlify.app/) |
+| **WinGro** — E-Commerce Store | React, Vite, Docker, GitHub Actions | Netlify + Docker + CI/CD | [🔗 Live](https://sahanb200.github.io/Wingro/) |
 | **InnerSage** — Climate Action Website | HTML, CSS, JS | GitHub Pages + GitHub Actions | [🔗 Live](https://sahanb200.github.io/innersage/home.html) |
 | **Portfolio** — DevOps Portfolio | React, TypeScript, Framer Motion | GitHub Pages + CI/CD | [🔗 Live](https://sahanb200.github.io/my-portfolio/) |
 | **Web Game** — Browser Running Game | HTML, CSS, JS | GitHub Pages + GitHub Actions | [🔗 Live](https://sahanb200.github.io/Web-Game/) |
