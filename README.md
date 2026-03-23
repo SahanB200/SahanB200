@@ -176,7 +176,14 @@ graph LR
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SahanB200&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-rust.vercel.app/?username=SahanB200&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🏆-Pull%20Shark-45B7D1?style=for-the-badge" alt="Pull Shark" />
+  <img src="https://img.shields.io/badge/🏆-YOLO-FF6B6B?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/🏆-Quickdraw-4ECDC4?style=for-the-badge" alt="Quickdraw" />
+  <img src="https://img.shields.io/badge/🏆-Galaxy%20Brain-9B59B6?style=for-the-badge" alt="Galaxy Brain" />
 </div>
 
 ---
